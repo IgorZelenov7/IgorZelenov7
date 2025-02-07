@@ -2,7 +2,7 @@ Hello ✌️
 =====================
 
 * 🌍  I'm based in Russia, Vladimir city
-* ✉️  You can contact me at [t.me/igorqx](mailto:t.me/igorqx) or [vk](vk.com/igorqx) or [mail](izelenov7@mail.ru)
+* ✉️  You can contact me at [Telegram](mailto:t.me/igorqx) | [Vk](vk.com/igorqx) | [Send mail](izelenov7@mail.ru)
 
 ### Skills
 
