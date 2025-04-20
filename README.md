@@ -1,7 +1,7 @@
 Hello ✌️
 =====================
-
-* 🌍  I'm based in Russia, Vladimir city
+* 💻  Frontend Developer
+* 🌍  from Russia, Vladimir city
 * ✉️  You can contact me at [Telegram](https://t.me/igorqx) | [Vk](https://vk.com/igorqx)
 
 ### Skills
