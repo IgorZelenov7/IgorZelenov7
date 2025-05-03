@@ -2,7 +2,7 @@ Hello ✌️
 =====================
 * 💻  Frontend Developer
 * 🌍  from Russia, Vladimir city
-* ✉️  You can contact me at [Telegram](https://t.me/igorqx) | [Vk](https://vk.com/igorqx) | [Email: izelenov7@mail.ru](izelenov7@mail.ru)
+* ✉️  You can contact me at [Telegram](https://t.me/igorqx) | [Vk](https://vk.com/igorqx) | Email: izelenov7@mail.ru
 
 ### Skills
 
