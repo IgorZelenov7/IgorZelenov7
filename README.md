@@ -1,7 +1,6 @@
 Hello ✌️
 =====================
-* 💻  Frontend Developer
-* 🌍  from Russia, Vladimir city
+* 💻  Tech Support [domains] [REG.RU](https://www.reg.ru/)
 * ✉️  You can contact me at [Telegram](https://t.me/igorqx) | [Vk](https://vk.com/igorqx) | izelenov7@mail.ru
 
 ### Skills
