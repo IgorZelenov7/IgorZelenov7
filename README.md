@@ -1,6 +1,6 @@
 Hello ✌️
 =====================
-* 💻  Tech Support [domains] [REG.RU](https://www.reg.ru/)
+* 💻  Tech Support [REG.RU](https://www.reg.ru/)
 * ✉️  You can contact me at [Telegram](https://t.me/igorqx) | [Vk](https://vk.com/igorqx) | izelenov7@mail.ru
 
 ### Skills
